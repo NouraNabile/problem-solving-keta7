@@ -10,3 +10,5 @@ console.log(check("123 b"))//true
 console.log(check("b 123"))//true
 
 console.log(check("1b23"))//false
+
+
